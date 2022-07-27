@@ -1,0 +1,34 @@
+.container {
+  margin: auto !important;
+  margin-top: 150px !important;
+  
+  
+}
+
+.con{
+  background-color: black;
+}
+.txt{
+  font-size: 50px;
+  color: white;
+}
+
+.mleft{
+  margin-left: 25%;
+}
+.txt1{
+  font-weight: 400;
+  font-size: 30px;
+  color: white;
+}
+/*
+.search {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  height: 500px;
+  text-shadow: 4px 4px 4px black;
+}
+h1 {
+  color: #fff;
+} */
